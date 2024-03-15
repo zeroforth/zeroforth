@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently looking for **Internships/Jobs**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 

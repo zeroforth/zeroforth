@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Soyuz</h1>
+<h1 align="center">Hi 👋, I'm Sourav</h1>
 <h3 align="center">Full Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeroforth&label=Profile%20views&color=0e75b6&style=flat" alt="zeroforth" /> </p>
 
-- 🔭 I’m currently working on **Sample Project**
+- 🔭 I’m currently working on **Django and RASA**
 
-- 🌱 I’m currently learning **Django , PostGre , Cloud Computing**
-
-- 📫 How to reach me **sample@gmail.com**
+- 🌱 I’m currently looking for **Internships/Jobs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
